@@ -7,3 +7,4 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 Pueden hacer lo que quieran...
 
 ## Estos cambios son nuevos de local
+## Estos cambios son nuevos desde remoto
